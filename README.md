@@ -13,7 +13,11 @@ s - назад(на один блок)
 
 d - вправо(на один блок)
 
-[](https://github.com/bogomdan/my-minecraft/blob/main/videos/1.mp4rgu)
+
+
+https://user-images.githubusercontent.com/105064273/186906241-48a25950-b6d6-4c43-8bcc-c74352910ab2.mp4
+
+
 
 Есть базовое передвижение камерой
 
@@ -21,7 +25,11 @@ m-вправо
 
 n-влево
 
-[](https://github.com/bogomdan/my-minecraft/blob/main/videos/2.mp4)
+
+
+https://user-images.githubusercontent.com/105064273/186906274-845c1f36-c092-4da5-869b-9d7130fb4669.mp4
+
+
 
 Так же в моей игре можно подняться и опустится
 
@@ -29,8 +37,13 @@ e-подняться
 
 q-опуститься
  
-[](https://github.com/bogomdan/my-minecraft/blob/main/videos/3.mp4)
+
+
+https://user-images.githubusercontent.com/105064273/186906301-bd39458a-fe5d-4d1e-b450-8a8baca24372.mp4
+
+
 
 Карта в игре реолизована по моему мнению не очень,но что есть то есть)
-[](https://github.com/bogomdan/my-minecraft/blob/main/skrin/4.png)
+![4](https://user-images.githubusercontent.com/105064273/186906192-a042e57c-0422-4047-a346-ccb4825343ce.png)
+
 Работу делал Иванов Богдан ссылка на github [тут](https://github.com/bogomdan)
