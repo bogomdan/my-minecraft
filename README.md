@@ -14,7 +14,7 @@ s - назад(на один блок)
 
 d - вправо(на один блок)
 
-
+https://github.com/bogomdan/my-minecraft/blob/main/videos/1.mp4
 
 Есть базовое передвижение камерой 
 
@@ -22,7 +22,7 @@ m-вправо
 
 n-влево
 
-
+https://github.com/bogomdan/my-minecraft/blob/main/videos/2.mp4
 
 Так же в моей игре можно подняться и опустится
 
@@ -30,23 +30,15 @@ e-подняться
 
 q-опуститься
  
-
+https://github.com/bogomdan/my-minecraft/blob/main/videos/3.mp4
 
 Карта в игре реолизована по моему мнению не очень,но что есть то есть)
-
+https://github.com/bogomdan/my-minecraft/blob/main/skrin/4.png
 Работу делал Иванов Богдан ссылка на github [тут](https://github.com/bogomdan)
 
-## Acknowledgements
-
- - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- - [Awesome README](https://github.com/matiassingers/awesome-readme)
- - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
 
 
-## скрин
 
-![]()
-![]()
-![]()
-![]()
+
+
 
